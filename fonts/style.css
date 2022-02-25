@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('icomoon.eot?7kq2bk');
+  src:  url('icomoon.eot?7kq2bk#iefix') format('embedded-opentype'),
+    url('icomoon.ttf?7kq2bk') format('truetype'),
+    url('icomoon.woff?7kq2bk') format('woff'),
+    url('icomoon.svg?7kq2bk#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-bx_bxs-store-alt-1:before {
+  content: "\e907";
+  color: #ea7c69;
+}
+.icon-Setting:before {
+  content: "\e901";
+  color: #ea7c69;
+}
+.icon-Notification:before {
+  content: "\e902";
+  color: #ea7c69;
+}
+.icon-Message:before {
+  content: "\e903";
+  color: #ea7c69;
+}
+.icon-Log-Out:before {
+  content: "\e904";
+  color: #ea7c69;
+}
+.icon-Dashboard:before {
+  content: "\e905";
+  color: #ea7c69;
+}
+.icon-Discount:before {
+  content: "\e906";
+  color: #ea7c69;
+}
+.icon-Home:before {
+  content: "\e900";
+  color: #fff;
+}
